@@ -193,3 +193,534 @@ WebGL(0x7f8261018000)::ForceLoseContext
 WebGL(0x7f8261019000)::ForceLoseContext
 WebGL(0x7f8261019800)::ForceLoseContext
 1580513564132	Marionette	INFO	Stopped listening on port 36553
+1580599749830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI0m4n2"
+1580599750414	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580599750606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580599750606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580599750606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580599750606	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580599752383	Marionette	INFO	Listening on port 33623
+1580599752441	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f9de7039000)::ForceLoseContext
+WebGL(0x7f9de88a4800)::ForceLoseContext
+WebGL(0x7f9de88a7000)::ForceLoseContext
+WebGL(0x7f9de88a7800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.4.2/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+WebGL(0x7f9de793a800)::ForceLoseContext
+WebGL(0x7f9de7941000)::ForceLoseContext
+WebGL(0x7f9de7942000)::ForceLoseContext
+WebGL(0x7f9de7942800)::ForceLoseContext
+1580599795272	Marionette	INFO	Stopped listening on port 33623
+1580599802821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKiO9m9"
+1580599803110	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580599803230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580599803230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580599803230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580599803230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580599804579	Marionette	INFO	Listening on port 42315
+1580599804626	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f61fe6c0800)::ForceLoseContext
+WebGL(0x7f61f8ba0000)::ForceLoseContext
+WebGL(0x7f61f8ba1000)::ForceLoseContext
+WebGL(0x7f61f8ba1800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.4.2/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+WebGL(0x7f61f5f11800)::ForceLoseContext
+WebGL(0x7f61f5f12000)::ForceLoseContext
+WebGL(0x7f61f5f16000)::ForceLoseContext
+WebGL(0x7f61f5f16800)::ForceLoseContext
+WebGL(0x7f61f5f6b000)::ForceLoseContext
+WebGL(0x7f61f620c000)::ForceLoseContext
+WebGL(0x7f61f621d800)::ForceLoseContext
+WebGL(0x7f61f5360000)::ForceLoseContext
+WebGL(0x7f61f5362800)::ForceLoseContext
+WebGL(0x7f61f5363800)::ForceLoseContext
+WebGL(0x7f61f5373800)::ForceLoseContext
+WebGL(0x7f61f54c4800)::ForceLoseContext
+1580599883318	Marionette	INFO	Stopped listening on port 42315
+1580920561693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCPHA0"
+1580920567116	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580920567413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580920567414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580920567414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580920567414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580920569323	Marionette	INFO	Listening on port 40193
+1580920569416	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f7b5d78f000)::ForceLoseContext
+WebGL(0x7f7b57a82800)::ForceLoseContext
+WebGL(0x7f7b57a83800)::ForceLoseContext
+WebGL(0x7f7b57a84000)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+WebGL(0x7f7b53b03000)::ForceLoseContext
+WebGL(0x7f7b53b03800)::ForceLoseContext
+WebGL(0x7f7b53b04800)::ForceLoseContext
+WebGL(0x7f7b53b05000)::ForceLoseContext
+1580920787811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuUIP9L"
+1580920788187	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580920788350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580920788350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580920788350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580920788350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580920790175	Marionette	INFO	Listening on port 36093
+1580920790234	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f235b3c4000)::ForceLoseContext
+WebGL(0x7f2355980000)::ForceLoseContext
+WebGL(0x7f2355981000)::ForceLoseContext
+WebGL(0x7f2355981800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+WebGL(0x7f235156a000)::ForceLoseContext
+WebGL(0x7f235156e000)::ForceLoseContext
+WebGL(0x7f235156f000)::ForceLoseContext
+WebGL(0x7f235156f800)::ForceLoseContext
+1580920980683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjFA9F"
+1580920981334	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580920981602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580920981602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580920981603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580920981603	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580920984490	Marionette	INFO	Listening on port 39059
+1580920984508	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7fc4a446e000)::ForceLoseContext
+WebGL(0x7fc49fb36800)::ForceLoseContext
+WebGL(0x7fc49fb37800)::ForceLoseContext
+WebGL(0x7fc49fb38000)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7fc49bb09800)::ForceLoseContext
+WebGL(0x7fc49bb0a000)::ForceLoseContext
+WebGL(0x7fc49bb14000)::ForceLoseContext
+WebGL(0x7fc49bb14800)::ForceLoseContext
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x670029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1580920999590	Marionette	INFO	Stopped listening on port 39059
+1580921003251	Marionette	INFO	Stopped listening on port 40193
+1580921663598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLZP5lP"
+1580921663921	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580921664056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580921664057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580921664057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580921664057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580921665658	Marionette	INFO	Listening on port 37443
+1580921665721	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7fb0db10b800)::ForceLoseContext
+WebGL(0x7fb0db11a000)::ForceLoseContext
+WebGL(0x7fb0db11b000)::ForceLoseContext
+WebGL(0x7fb0db11b800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7fb0d5d50000)::ForceLoseContext
+WebGL(0x7fb0d5aef800)::ForceLoseContext
+WebGL(0x7fb0d5d4f800)::ForceLoseContext
+WebGL(0x7fb0d5d50800)::ForceLoseContext
+WebGL(0x7fb0d2ed9800)::ForceLoseContext
+WebGL(0x7fb0d53a9800)::ForceLoseContext
+WebGL(0x7fb0d53b0800)::ForceLoseContext
+WebGL(0x7fb0d53bf000)::ForceLoseContext
+1580925765114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejildBA"
+1580925765525	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580925765701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580925765701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580925765701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580925765701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580925767817	Marionette	INFO	Listening on port 42007
+1580925767862	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f54ae14c000)::ForceLoseContext
+WebGL(0x7f54ae1b2800)::ForceLoseContext
+WebGL(0x7f54a6c03000)::ForceLoseContext
+WebGL(0x7f54a6c03800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+WebGL(0x7f54a7a7c000)::ForceLoseContext
+WebGL(0x7f54a7a7d800)::ForceLoseContext
+WebGL(0x7f54a7a8c000)::ForceLoseContext
+WebGL(0x7f54a77d2000)::ForceLoseContext
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__commons_desktop.9b58e459.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__vendor-tiny-addons.c37e885e.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__ML-MLB.21c49c56.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/google-gtag-search-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.10/onboarding-cp.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__header.84358c53.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/ui/navigation/5.3.7/scripts/messages-plus.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7f54a4ef6800)::ForceLoseContext
+WebGL(0x7f54a4e4f000)::ForceLoseContext
+WebGL(0x7f54a4e50000)::ForceLoseContext
+WebGL(0x7f54a4e55000)::ForceLoseContext
+1580925927085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBepsCP"
+1580925927559	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580925927761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580925927762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580925927762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580925927762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580925930148	Marionette	INFO	Listening on port 34113
+1580925930199	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f90c21c7000)::ForceLoseContext
+WebGL(0x7f90bc8a8800)::ForceLoseContext
+WebGL(0x7f90bc8a9800)::ForceLoseContext
+WebGL(0x7f90bc8aa000)::ForceLoseContext
+WebGL(0x7f90b91e6000)::ForceLoseContext
+WebGL(0x7f90b91e6800)::ForceLoseContext
+WebGL(0x7f90b9259000)::ForceLoseContext
+WebGL(0x7f90b9259800)::ForceLoseContext
+WebGL(0x7f90b6334800)::ForceLoseContext
+WebGL(0x7f90b6335800)::ForceLoseContext
+WebGL(0x7f90b633b000)::ForceLoseContext
+WebGL(0x7f90b8607000)::ForceLoseContext
+1580925961996	Marionette	INFO	Stopped listening on port 42007
+1580925962106	Marionette	INFO	Stopped listening on port 34113
+1580925962935	Marionette	INFO	Stopped listening on port 36093
+1580926426280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9HyD44"
+1580926426674	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580926426824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580926426824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580926426824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580926426824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580926428731	Marionette	INFO	Listening on port 46029
+1580926428789	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f2107220000)::ForceLoseContext
+WebGL(0x7f210966d000)::ForceLoseContext
+WebGL(0x7f210966e000)::ForceLoseContext
+WebGL(0x7f210966e800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+WebGL(0x7f2100988800)::ForceLoseContext
+WebGL(0x7f2100989000)::ForceLoseContext
+WebGL(0x7f210692f800)::ForceLoseContext
+WebGL(0x7f2106930000)::ForceLoseContext
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__ML-MLB.21c49c56.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__chico_desktop.8a20c382.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__commons_desktop.9b58e459.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__vendor-tiny-addons.c37e885e.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__header.84358c53.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.10/onboarding-cp.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/google-gtag-search-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/ui/navigation/5.3.7/scripts/messages-plus.js is not accessible.
+WebGL(0x7f20ffe8f000)::ForceLoseContext
+WebGL(0x7f210060b000)::ForceLoseContext
+WebGL(0x7f210060e000)::ForceLoseContext
+WebGL(0x7f210061b000)::ForceLoseContext
+1580926468597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGTEfve"
+1580926469012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580926469193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580926469193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580926469193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580926469194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580926471496	Marionette	INFO	Listening on port 45183
+1580926471519	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f1941bc6800)::ForceLoseContext
+WebGL(0x7f193c2b1800)::ForceLoseContext
+WebGL(0x7f193c2b2800)::ForceLoseContext
+WebGL(0x7f193c2b3000)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7f1938341000)::ForceLoseContext
+WebGL(0x7f1938342000)::ForceLoseContext
+WebGL(0x7f1938344800)::ForceLoseContext
+WebGL(0x7f1938346800)::ForceLoseContext
+WebGL(0x7f19383ec800)::ForceLoseContext
+WebGL(0x7f193845a000)::ForceLoseContext
+WebGL(0x7f1938462800)::ForceLoseContext
+WebGL(0x7f193c2c3800)::ForceLoseContext
+1580926510661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehoOdLv"
+1580926511156	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580926511339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580926511339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580926511339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580926511339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580926514305	Marionette	INFO	Listening on port 36519
+1580926514373	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f4b3747c800)::ForceLoseContext
+WebGL(0x7f4b39970000)::ForceLoseContext
+WebGL(0x7f4b39971000)::ForceLoseContext
+WebGL(0x7f4b39971800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+WebGL(0x7f4b2f76e000)::ForceLoseContext
+WebGL(0x7f4b2f7d7800)::ForceLoseContext
+WebGL(0x7f4b3697d800)::ForceLoseContext
+WebGL(0x7f4b36984000)::ForceLoseContext
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__vendor-tiny-addons.c37e885e.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/onboarding-cp/v1.0.10/onboarding-cp.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/google-gtag-search-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/ui/navigation/5.3.7/scripts/messages-plus.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__header.84358c53.js is not accessible.
+JavaScript error: https://lista.mercadolivre.com.br/sandalia-feminina, line 2079: URIError: The script https://http2.mlstatic.com/resources/frontend/commons-frontend/ui-dist/js/bundle__ML-MLB.21c49c56.js is not accessible.
+WebGL(0x7f4b2c5a1000)::ForceLoseContext
+WebGL(0x7f4b2c5a2000)::ForceLoseContext
+WebGL(0x7f4b2c5a3800)::ForceLoseContext
+WebGL(0x7f4b2c5a4800)::ForceLoseContext
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580926550836	Marionette	INFO	Stopped listening on port 45183
+1580926552149	Marionette	INFO	Stopped listening on port 46029
+1580926553908	Marionette	INFO	Stopped listening on port 37443
+1580926559099	Marionette	INFO	Stopped listening on port 36519
+1580926684186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNt9T83"
+1580926684541	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580926684687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580926684687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580926684687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580926684687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580926686574	Marionette	INFO	Listening on port 36173
+1580926686627	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f191f677000)::ForceLoseContext
+WebGL(0x7f191c18e000)::ForceLoseContext
+WebGL(0x7f191c18f000)::ForceLoseContext
+WebGL(0x7f191c18f800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7f1917065800)::ForceLoseContext
+WebGL(0x7f1917068800)::ForceLoseContext
+WebGL(0x7f191756d000)::ForceLoseContext
+WebGL(0x7f191756e800)::ForceLoseContext
+WebGL(0x7f191756a800)::ForceLoseContext
+WebGL(0x7f191756c000)::ForceLoseContext
+WebGL(0x7f191756e800)::ForceLoseContext
+WebGL(0x7f1917573000)::ForceLoseContext
+1580926786155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq46P7W"
+1580926786564	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580926786727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580926786727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580926786727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580926786727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580926788899	Marionette	INFO	Listening on port 38349
+1580926788963	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7fd798ac6000)::ForceLoseContext
+WebGL(0x7fd79319f800)::ForceLoseContext
+WebGL(0x7fd7931a0800)::ForceLoseContext
+WebGL(0x7fd7931a1000)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7fd78ed3a800)::ForceLoseContext
+WebGL(0x7fd78ed3b800)::ForceLoseContext
+WebGL(0x7fd78ed3c800)::ForceLoseContext
+WebGL(0x7fd78ed3d000)::ForceLoseContext
+WebGL(0x7fd78e6b9000)::ForceLoseContext
+WebGL(0x7fd78e6bb000)::ForceLoseContext
+WebGL(0x7fd78e6bc800)::ForceLoseContext
+WebGL(0x7fd78e6bd800)::ForceLoseContext
+1580927219150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecW45YQ"
+1580927219869	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927220173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927220173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927220174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927220174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927223500	Marionette	INFO	Listening on port 36129
+1580927223568	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f62d823b000)::ForceLoseContext
+WebGL(0x7f62d8249800)::ForceLoseContext
+WebGL(0x7f62d824a800)::ForceLoseContext
+WebGL(0x7f62d824b000)::ForceLoseContext
+1580927232051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+WebGL(0x7f62d4592800)::ForceLoseContext
+WebGL(0x7f62d461d800)::ForceLoseContext
+WebGL(0x7f62d4628800)::ForceLoseContext
+WebGL(0x7f62d4629000)::ForceLoseContext
+WebGL(0x7f62d462f800)::ForceLoseContext
+WebGL(0x7f62d46df800)::ForceLoseContext
+WebGL(0x7f62d824c800)::ForceLoseContext
+WebGL(0x7f62d824d000)::ForceLoseContext
+1580927301132	Marionette	INFO	Stopped listening on port 36129
+1580927302804	Marionette	INFO	Stopped listening on port 38349
+1580927304220	Marionette	INFO	Stopped listening on port 36173
+1580927309798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBZD8O"
+1580927310204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927310349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927310350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927310350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927310350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927312264	Marionette	INFO	Listening on port 37253
+1580927312305	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7fb31c5a1800)::ForceLoseContext
+WebGL(0x7fb31ea70000)::ForceLoseContext
+WebGL(0x7fb31ea71000)::ForceLoseContext
+WebGL(0x7fb31ea71800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7fb315688000)::ForceLoseContext
+WebGL(0x7fb315688800)::ForceLoseContext
+WebGL(0x7fb315929000)::ForceLoseContext
+WebGL(0x7fb31592a800)::ForceLoseContext
+WebGL(0x7fb3150f0800)::ForceLoseContext
+WebGL(0x7fb31b208800)::ForceLoseContext
+WebGL(0x7fb31b20a800)::ForceLoseContext
+WebGL(0x7fb31b20b000)::ForceLoseContext
+1580927455710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIffycn"
+1580927456121	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927456280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927456280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927456280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927456280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927458732	Marionette	INFO	Listening on port 43451
+1580927458821	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f4f10073000)::ForceLoseContext
+WebGL(0x7f4f0a6b7000)::ForceLoseContext
+WebGL(0x7f4f0a6b8000)::ForceLoseContext
+WebGL(0x7f4f0a6b8800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+WebGL(0x7f4f04393800)::ForceLoseContext
+WebGL(0x7f4f04394000)::ForceLoseContext
+WebGL(0x7f4f04397800)::ForceLoseContext
+WebGL(0x7f4f04398000)::ForceLoseContext
+WebGL(0x7f4f043ae000)::ForceLoseContext
+WebGL(0x7f4f05b31800)::ForceLoseContext
+WebGL(0x7f4f05b32800)::ForceLoseContext
+WebGL(0x7f4f05b3d800)::ForceLoseContext
+1580927544760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled8rCOZ"
+1580927545269	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927545537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927545537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927545537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927545538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927547911	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1580927547911	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1580927548062	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1580927548063	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1580927548433	Marionette	INFO	Listening on port 39897
+1580927548727	Marionette	INFO	Stopped listening on port 39897
+1580927549759	Marionette	INFO	Stopped listening on port 43451
+1580927551094	Marionette	INFO	Stopped listening on port 37253
+1580927554710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuYjVib"
+1580927555079	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1580927555218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580927555218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580927555219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580927555219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580927557009	Marionette	INFO	Listening on port 37983
+1580927557064	Marionette	WARN	TLS certificate errors will be ignored for this session
+WebGL(0x7f68948a0000)::ForceLoseContext
+WebGL(0x7f688eb8b000)::ForceLoseContext
+WebGL(0x7f688eb8c000)::ForceLoseContext
+WebGL(0x7f688eb8c800)::ForceLoseContext
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/vendor.991a4d61.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/homes-palpatine/home.desktop.2620017d.br.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/storage/tag-manager/kenshoo-ktag-mlb.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/ui/searchbox/2.5.0/index.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/categories/v1.1.1/categories.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/snackbar/v1.0.0/snackbar.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/nav-cart/v1.2.1/CartWidget.js is not accessible.
+JavaScript error: https://www.mercadolivre.com.br/, line 129: URIError: The script https://http2.mlstatic.com/resources/frontend/statics/ml-widgets/modal/v1.0.5/modal.js is not accessible.
+WebGL(0x7f688aac6800)::ForceLoseContext
+WebGL(0x7f688aac7000)::ForceLoseContext
+WebGL(0x7f688aac8000)::ForceLoseContext
+WebGL(0x7f688aac8800)::ForceLoseContext
+WebGL(0x7f688a0e7000)::ForceLoseContext
+WebGL(0x7f688aa0c800)::ForceLoseContext
+WebGL(0x7f688aa17800)::ForceLoseContext
+WebGL(0x7f688aaad000)::ForceLoseContext
+WebGL(0x7f688ae42800)::ForceLoseContext
+WebGL(0x7f688ae59800)::ForceLoseContext
+WebGL(0x7f688eb8b800)::ForceLoseContext
+WebGL(0x7f688eb8c000)::ForceLoseContext
+1580927573380	Marionette	INFO	Stopped listening on port 37983
